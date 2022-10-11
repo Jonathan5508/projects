@@ -1,0 +1,25 @@
+{
+  "name": "starcade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./Structures/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@iamtraction/google-translate": "^1.1.2",
+    "ascii-table": "^0.0.9",
+    "dbd-dark-dashboard": "^1.6.591",
+    "discord-dashboard": "^2.3.40",
+    "discord-id": "^1.1.0",
+    "discord-together": "^1.3.31",
+    "discord.js": "^14.2.0",
+    "dotenv": "^16.0.1",
+    "glob": "^7.2.0",
+    "mongoose": "^6.5.2",
+    "ms": "^2.1.3"
+  }
+}

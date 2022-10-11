@@ -1,0 +1,5 @@
+nextcord
+load_dotenv
+aiosqlite
+datetime
+asyncio
